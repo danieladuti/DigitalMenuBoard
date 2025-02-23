@@ -1,0 +1,12 @@
+oscar
+trufanda
+novella
+motiv
+casa pogor
+mamma mia
+toujours
+bolta rece
+bujor
+nenu
+
+//<denumire_produs>=<ingredient_1,ingredient_2>=<pret>

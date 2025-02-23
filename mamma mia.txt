@@ -1,0 +1,10 @@
+<denumire_produs>=<ingredient_1,ingredient_2>=<pret>
+Pizza MammaMia=blat pizza,mix branzeturi mammamia(mozzarela,cascaval),sos de rosii dulce,piept pui,salam de vara,ardei gras,masline kalamata=52.90
+Pizza cu Chorizo=blat pizza, mix branzeturi mammamia (mozzarella, cascaval), chorizzo, sos de rosii dulce=47.90
+Pizza Creata=blat pizza, sos de rosii dulce, la alegere: mix branzeturi mammamia (mozzarella, cascaval)=35.40
+Supa crema de legume=supa de legume (morcov, ceapa, telina), cartofi, ceapa, ardei gras, pastarnac, telina, sare / crutoane=24.90 
+Mujdei=usturoi,ulei=4.90
+paine=faina de grau, apa, drojdie=15
+pui cu smantana=pui, smantana=32
+mamaliga=malai,apa=20
+rata la cuptor=ardei, rata si pui=56
